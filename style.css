@@ -1,12 +1,10 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 body{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif !important;
 }
 
-footer{
-    margin-top: 7rem;
-}
+
 .button-background button{
     background-color: rgb(255, 243, 230);
     padding: 10px 30px;
