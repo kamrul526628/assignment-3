@@ -1,19 +1,21 @@
 /* google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-body{
+
+body {
     font-family: 'Poppins', sans-serif !important;
 }
 
+.card-border {
+    border-radius: 2rem;
 
-.button-background button{
+}
+
+.button-background button {
     background-color: rgb(255, 243, 230);
     padding: 10px 30px;
 }
-.icon{
+
+.icon {
     color: #c7c5d0;
     font-size: large;
-}
-.card-border{
-    border-radius: 2rem;
-   
 }
