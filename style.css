@@ -7,3 +7,15 @@ body{
 footer{
     margin-top: 7rem;
 }
+.button-background button{
+    background-color: rgb(255, 243, 230);
+    padding: 10px 30px;
+}
+.icon{
+    color: #c7c5d0;
+    font-size: large;
+}
+.card-border{
+    border-radius: 2rem;
+   
+}
